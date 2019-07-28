@@ -1,5 +1,4 @@
 # Hackelectoral
-Codefundo
 Our team Hackelectoral is aiming to solve the problems of Non-Resident Voters who cannot come to their area to vote for their candidate, we are planning to make an online portal that is secure and also maintains the secrecy of the vote.
 The identity of voters will be nowhere saved with the vote, yet we will make a method to verify each vote to the people.
 Our online portal will be trustworthy for the voters, and our portal will have everything to satisfy the voters about the electoral authenticity.
